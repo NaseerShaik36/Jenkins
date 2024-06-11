@@ -9,7 +9,7 @@ pipeline {
         }
          stage('Hi') {
             steps {
-                echo 'Hello Doctor Heart miss aaye'
+                echo 'Hello word2'
             }
         }
         stage('environment') {
